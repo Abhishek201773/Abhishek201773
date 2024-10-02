@@ -5,8 +5,7 @@
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek201773)](https://github.com/Abhishek201773/github-readme-stats)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek201773&show_icons=true&theme=transparent)
 
 <!---
 Abhishek201773/Abhishek201773 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
