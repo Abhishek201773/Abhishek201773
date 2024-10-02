@@ -4,7 +4,7 @@
 
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek201773&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhishek201773&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek201773&layout=donut-vertical)](https://github.com/Abhishek201773/github-readme-stats)
 <!---
